@@ -16,12 +16,12 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<p align="center">
+  <img src="preworkDemo.gif" width="250" height="550"/>
+</p>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [LICEcap](https://www.cockos.com/licecap/)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -44,7 +44,7 @@ Telegram
 - Saved Messages
 - Multiplatform
 
-A cool idea would be an app inspired by my take on the prework. Users would be able to create a custom ID card that they can share with others. They can add stuff such as links to Social Media, Contact Info, or even what music they are currently listening to. A unique way to do this would be to compile QR codes since many apps have them nowadays.   
+A cool idea would be an app inspired by my take on the prework. Users would be able to create a custom ID card that they can share with others. They can add stuff such as links to Social Media, Contact Info, or even what music they are currently listening to. A unique way to do this would be to compile QR codes since many apps have them nowadays.
 
 ## Notes
 
